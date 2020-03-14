@@ -1,0 +1,21 @@
+.singleuser{
+    background: #fff;
+    width: 29%;
+    margin: 10px 5px;
+    padding: 25px 15px;
+    text-align: center;
+    box-shadow: 0px 0px 30px 0px rgba(52,50,71,0.075);
+    border-radius: 5px;
+}
+.singleuser img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.user-name {
+    font-size: 16;
+    margin-bottom: 8px;
+}
+.user-phone {
+    font-size: 14px;
+}

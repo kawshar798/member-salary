@@ -1,0 +1,19 @@
+.container {
+    width: 1400px;
+    background: #eee;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+.users-container {
+    width: 80%;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.salary-summary {
+    width: 20%;
+    background: red;
+}
