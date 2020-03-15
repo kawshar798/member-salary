@@ -1,0 +1,12 @@
+.total-friend,
+.total-salary,
+.added-friend-list {
+    font-size: 16px;
+    color: #666666a1;
+    font-weight: 400;
+}
+.total-friend span,
+.total-salary span{
+    color: #000;
+}
+

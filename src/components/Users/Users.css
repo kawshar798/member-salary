@@ -19,3 +19,31 @@
     padding: 5px;
     margin-top: 20px;
 }
+.salary-inner-wrap{
+    text-align: left;
+    padding: 5px;
+}
+.salary-inner-wrap ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    padding-top: 10px;
+}
+.salary-inner-wrap li img {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    padding-right: 10px;
+}
+
+.salary-inner-wrap li {
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    box-shadow:0px 1px 10px #00000014;
+    padding-left: 8px;
+    border-radius: 3px;
+}
