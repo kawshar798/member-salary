@@ -3,11 +3,14 @@ import fakeData from '../../fakeData/';
 import './Users.css';
 import { useState } from 'react';
 import SingleUser from '../SingleUser/SingleUser';
+import Salary from '../Salary/Salary';
 const Users = () => {
     const [users,setUsers] =  useState(fakeData);
+    const [addFriend,setAddFriend] = useState([]);
 
     const handleAddFriend = (user) =>{
-console.log('clikc me');
+const newFriend = [...addFriend,user];
+setAddFriend(newFriend);
     }
     return (
         <div className="container">
@@ -18,9 +21,8 @@ console.log('clikc me');
             </div>
             <div className="salary-summary">
                 <div className="salary-inner-wrap">
-                    <h2 className="">Total Friends: <span></span></h2>
-                    <h2 className="">Total Yearly Income: <span></span></h2>
-                    <h2 className="">Added Friends list: <span></span></h2>
+                    <Salary  addFriend={addFriend} ></Salary>
+                   
                 </div>
             </div>
         </div>

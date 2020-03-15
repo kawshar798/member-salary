@@ -5,7 +5,7 @@ const SingleUser = (props) => {
     const { avatar_url,login,salary,email,phone} = props.user;
     return (
         <div className="singleuser">
-            {console.log(props.user)}
+            {/* {console.log(props.user)} */}
             <div className="user-img">
 <img src={avatar_url} alt="" />
             </div>
