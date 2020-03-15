@@ -47,7 +47,9 @@ var users = [
       "events_url": "https://api.github.com/users/defunkt/events{/privacy}",
       "received_events_url": "https://api.github.com/users/defunkt/received_events",
       "type": "User",
-      "site_admin": false
+      "site_admin": false,
+      "email": "defunkt@gmail.com",
+      "phone": "01879230000",
     },
     {
       "login": "pjhyett",
@@ -68,7 +70,9 @@ var users = [
       "events_url": "https://api.github.com/users/pjhyett/events{/privacy}",
       "received_events_url": "https://api.github.com/users/pjhyett/received_events",
       "type": "User",
-      "site_admin": false
+      "site_admin": false,
+      "email": "pjhyett@gmail.com",
+      "phone": "01579200000",
     },
     {
       "login": "wycats",
@@ -89,7 +93,9 @@ var users = [
       "events_url": "https://api.github.com/users/wycats/events{/privacy}",
       "received_events_url": "https://api.github.com/users/wycats/received_events",
       "type": "User",
-      "site_admin": false
+      "site_admin": false,
+      "email": "wycats@gmail.com",
+      "phone": "01979200000",
     },
     {
       "login": "ezmobius",
@@ -110,7 +116,9 @@ var users = [
       "events_url": "https://api.github.com/users/ezmobius/events{/privacy}",
       "received_events_url": "https://api.github.com/users/ezmobius/received_events",
       "type": "User",
-      "site_admin": false
+      "site_admin": false,
+      "email": "ezmobius@gmail.com",
+      "phone": "01999200000",
     },
     {
       "login": "ivey",
@@ -131,7 +139,9 @@ var users = [
       "events_url": "https://api.github.com/users/ivey/events{/privacy}",
       "received_events_url": "https://api.github.com/users/ivey/received_events",
       "type": "User",
-      "site_admin": false
+      "site_admin": false,
+      "email": "ivey@gmail.com",
+      "phone": "01909200000",
     },
     {
       "login": "evanphx",
@@ -152,7 +162,9 @@ var users = [
       "events_url": "https://api.github.com/users/evanphx/events{/privacy}",
       "received_events_url": "https://api.github.com/users/evanphx/received_events",
       "type": "User",
-      "site_admin": false
+      "site_admin": false,
+      "email": "evanphx@gmail.com",
+      "phone": "01809200000",
     },
     {
       "login": "vanpelt",
@@ -173,7 +185,9 @@ var users = [
       "events_url": "https://api.github.com/users/vanpelt/events{/privacy}",
       "received_events_url": "https://api.github.com/users/vanpelt/received_events",
       "type": "User",
-      "site_admin": false
+      "site_admin": false,
+      "email": "vanpelt@gmail.com",
+      "phone": "01509200000",
     },
     {
       "login": "wayneeseguin",
@@ -194,7 +208,9 @@ var users = [
       "events_url": "https://api.github.com/users/wayneeseguin/events{/privacy}",
       "received_events_url": "https://api.github.com/users/wayneeseguin/received_events",
       "type": "User",
-      "site_admin": false
+      "site_admin": false,
+      "email": "wayneeseguin@gmail.com",
+      "phone": "01679200000",
     },
     {
       "login": "brynary",
@@ -215,7 +231,9 @@ var users = [
       "events_url": "https://api.github.com/users/brynary/events{/privacy}",
       "received_events_url": "https://api.github.com/users/brynary/received_events",
       "type": "User",
-      "site_admin": false
+      "site_admin": false,
+      "email": "brynary@gmail.com",
+      "phone": "01690200000",
     },
     {
       "login": "kevinclark",
@@ -236,7 +254,10 @@ var users = [
       "events_url": "https://api.github.com/users/kevinclark/events{/privacy}",
       "received_events_url": "https://api.github.com/users/kevinclark/received_events",
       "type": "User",
-      "site_admin": false
+      "site_admin": false,
+      "email": "kevinclark@gmail.com",
+      "phone": "01880200000",
+      
     },
     {
       "login": "technoweenie",
@@ -257,7 +278,9 @@ var users = [
       "events_url": "https://api.github.com/users/technoweenie/events{/privacy}",
       "received_events_url": "https://api.github.com/users/technoweenie/received_events",
       "type": "User",
-      "site_admin": false
+      "site_admin": false,
+      "email": "technoweenie@gmail.com",
+      "phone": "01980200000",
     },
     {
       "login": "macournoyer",
@@ -278,7 +301,9 @@ var users = [
       "events_url": "https://api.github.com/users/macournoyer/events{/privacy}",
       "received_events_url": "https://api.github.com/users/macournoyer/received_events",
       "type": "User",
-      "site_admin": false
+      "site_admin": false,
+      "email": "macournoyer@gmail.com",
+      "phone": "01380200000",
     },
     {
       "login": "takeo",
@@ -299,7 +324,9 @@ var users = [
       "events_url": "https://api.github.com/users/takeo/events{/privacy}",
       "received_events_url": "https://api.github.com/users/takeo/received_events",
       "type": "User",
-      "site_admin": false
+      "site_admin": false,
+      "email": "takeo@gmail.com",
+      "phone": "01390200000",
     },
     {
       "login": "caged",
@@ -320,7 +347,9 @@ var users = [
       "events_url": "https://api.github.com/users/caged/events{/privacy}",
       "received_events_url": "https://api.github.com/users/caged/received_events",
       "type": "User",
-      "site_admin": false
+      "site_admin": false,
+      "email": "caged@gmail.com",
+      "phone": "01398270000",
     }
   ]
   export default users;
